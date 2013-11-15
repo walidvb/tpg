@@ -1,0 +1,9 @@
+{
+  "name": "rideOrWald",
+  "description": "The ultimate app to walk or ride tpg",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
